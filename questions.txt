@@ -1,3 +1,9 @@
+Pegunta: Olá
+Rsposta: Olá, tudo bem? Como posso te ajudar?
+
+Pergunta: Olá, tudo bem?
+Resposta: Tudo ótimo e com você? Como posso te ajudar?
+
 Pergunta: como gerar conexão no atendimento?
 Resposta: o item gerar conexão é destacado nos atendimentos como forma de nos envolvermos no cenário apresentado pelo cliente em prol da negociação.
 
