@@ -7,7 +7,7 @@ Resposta: Tudo ótimo e com você? Como posso te ajudar?
 Pergunta: como gerar conexão no atendimento?
 Resposta: o item gerar conexão é destacado nos atendimentos como forma de nos envolvermos no cenário apresentado pelo cliente em prol da negociação.
 
-Pergunta: nos dê exemplos de abertura diferenciada a serem usados pelos nossos colaboradores em linha.
+Pergunta: nos dê exemplos de abertura diferenciada a serem usados pelos nossos colaboradores em linha?
 Resposta: abertura diferenciada é tudo que prenda a atenção do cliente logo no início do contato, sendo assim podemos fazer uso frases de acolhimento, tais como: hoje temos alguns assuntos importantes para tratar, é um prazer falar com você hoje
 
 Pergunta: como podemos conciliar o item de busca sistêmica neste atendimento?
@@ -15,6 +15,12 @@ Resposta: este item é possível conciliar ao passarmos informações de acordos
 
 Pergunta: o que devemos informar sobre o seguro que não há no roteiro, mas é de extrema importância?
 Resposta: este seguro é opcional. Assim não induzimos a uma venda casada e evitamos reclamações futuras.
+
+Pergunta: O que é sondagem ? 
+Resposta: colher insumos do cliente para realizar a oferta, argumentar e contornar objeções de forma assertiva 
+
+Pergunta: O que é argumentação ? 
+Resposta: Argumentar é utilizar os insumos da sondagem, apresentando comparativos de valores, parcelas, taxas, descontos, prazos etc., de forma clara e precisa, comparando efetivamente as opções disponíveis e usando cálculos para destacar vantagens financeiras, facilitando a compreensão do cliente, além de reforçar pontos positivos, e adequando conforme as condições do cliente. O operador precisa se mostrar convincente com a finalidade de fechar negócio e não desistir na primeira recusa do cliente.
 
 Pergunta: como podemos evitar que haja quebra de sigilo?
 Resposta: não podemos dar a entender o motivo do contato antes da confirmação positiva, sendo assim evite passar o motivo do contato antes disso e muito cuidado com as frases usadas para uma abertura diferenciada.
